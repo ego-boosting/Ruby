@@ -41,3 +41,4 @@ car.move("右",5)
  end
 
  Car.turn("右")
+ 
